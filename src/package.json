@@ -26,7 +26,7 @@
     "react-swipeable-views": "^0.13.0",
     "recharts": "^1.4.2",
     "serve": "^10.1.1",
-    "xlsx": "^0.14.1"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-scripts start",
